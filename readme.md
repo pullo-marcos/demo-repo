@@ -15,6 +15,3 @@ even more text
 
 new feature
 
-## added new feature to master
-
-feature added to main
