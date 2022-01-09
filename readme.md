@@ -17,4 +17,4 @@ new feature
 
 ## added new feature to master
 
-feature
+feature added to main
