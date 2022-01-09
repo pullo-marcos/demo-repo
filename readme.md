@@ -15,6 +15,10 @@ even more text
 
 new feature
 
+<<<<<<< HEAD
 ## new branch changes
 
 changes
+=======
+more master changes
+>>>>>>> main
