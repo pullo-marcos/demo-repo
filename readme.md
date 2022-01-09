@@ -14,3 +14,7 @@ even more text
 ## experimental features branch
 
 new feature
+
+## added new feature to master
+
+feature
