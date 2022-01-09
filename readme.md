@@ -15,6 +15,6 @@ even more text
 
 new feature
 
-## added new feature to master
+## new branch changes
 
-feature added to main
+changes
